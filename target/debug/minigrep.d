@@ -1,0 +1,1 @@
+C:\Users\kuroneko\Documents\code\RustProject\minigrep\target\debug\minigrep.exe: C:\Users\kuroneko\Documents\code\RustProject\minigrep\src\lib.rs C:\Users\kuroneko\Documents\code\RustProject\minigrep\src\main.rs
