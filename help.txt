@@ -1,0 +1,16 @@
+Usage: grep [OPTION]... PATTERN [FILE]...
+Search for PATTERN in each FILE or standard input.
+PATTERN is, by default, a basic regular expression (BRE).
+Example: grep -i 'hello world' menu.h main.c
+
+Common selection and interpretation:
+  -i, --ignore-case         ignore case distinctions
+  -v, --invert-match        select non-matching lines
+  -n, --line-number         print line number with output lines
+  -r, --recursive           like --directories=recurse
+  -l, --files-with-matches  print only names of FILEs containing matches
+  -c, --count               print only a count of matching lines per FILE
+      --help                display this help text and exit
+      
+Report bugs to: jz2077056966@gmail.com
+GitHub home page: <https://github.com/KuroNeko359/minigrep>
